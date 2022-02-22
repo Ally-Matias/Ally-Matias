@@ -1,5 +1,4 @@
 - 👋 Opa, tudo bom? Eu sou Alliquison Matias e tenho 19 anos.
-- 👀 Estou sempre interessado em aprender mais sobre programação.
 - 🧑‍💻 No momento eu estou aprendendo a linguagem Python e Java.
 - 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
 
