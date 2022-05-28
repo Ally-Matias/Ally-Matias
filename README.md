@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="61" height="61"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/>
   </div>
 
   ##
