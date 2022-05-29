@@ -1,3 +1,6 @@
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 👋 Opa, tudo bom? Eu sou Alliquison Matias e tenho 19 anos.
 - 🧑‍💻 No momento eu estou aprendendo a linguagem Python e Java.
 - 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
