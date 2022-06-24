@@ -2,7 +2,7 @@
 - 🧑‍💻 No momento eu estou aprendendo a linguagem Python e Java.
 - 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
 
-<div align="eight">
+<div align="center">
   <img align="right" alt="GIF" src="https://github.com/Ally-Matias/Ally-Matias/blob/27ecdea24a3432a93b1bae6c0d2372d580d294aa/ezgif.com-gif-maker.gif?raw=true" width="400" height="220" />
 </div>
 <div align="center">
