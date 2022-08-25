@@ -24,7 +24,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ally-matias&theme=darkhub" alt="ally-matias" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ally-matias&label=Profile%20views&color=0e75b6&style=flat" alt="ally-matias" /> </p>
+
 
   <a href="https://instagram.com/ally_matiias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:allyquison.matias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
