@@ -16,10 +16,18 @@
   <a href="https://github.com/Ally-Matias">            theme=gotham 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&theme=transparent&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ally-Matias&layout=compact&langs_count=8&theme=transparent"/>
+
+    outro modelo 
+
+  <a href="https://github.com/Ally-Matias/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true"/></a>
 <div style="display: inline_block"><br> 
 </div>
 
 -->
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ally-Matias&theme=gotham&hide_border=true)](https://git.io/streak-stats"/>
+</div>
 
  <div align="left">   
     
