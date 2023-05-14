@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Opa, tudo bom? Eu sou Alliquison Matias.
+### 👋 Opa, tudo bem? Eu sou Alliquison Matias.
 ### 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
 
 ##
@@ -28,9 +28,12 @@
     
   <a href = "mailto:allyquison.matias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alliquison-matias-519092206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
   
 
-## Principais projetos:
-    
+## 👨‍💻 Principais projetos:
+ 
+   <!-- emojis pra usar 📌 🗂  📂 📍 📜  🔴 🟠 🟡 🟢 🔵 🟣 ⚫️ ⚪️ 🟤 🔺 🔻 🔸 🔹 🔶 🔷 🔳 🔲 ▪️ ▫️ ◾️ ◽️ ◼️ ◻️ 🟥 🟧 🟨 🟩 🟦 🟪 ⬛️ ⬜️ 🟫 ➔ ➜ ➙ ➛ ➝ ➞ -->
+   
+  </div>
     
