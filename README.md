@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim:
+## 👨‍💻 Sobre mim:
 
 <p>Atualmente, estou me dedicando ao desenvolvimento <b>Front-end</b>, onde venho criando projetos e atuando como <b>freelancer</b>, colocando em prática minhas habilidades. Tenho experiência em colaboração em equipe e estou sempre comprometido em me manter atualizado nas tecnologias do mercado. Meu objetivo é me tornar um desenvolvedor <b>Full-stack</b>, explorando oportunidades e contribuindo com projetos criativos em parceria com uma boa equipe.</p>
 
