@@ -24,6 +24,12 @@
 
 <p>Atualmente, estou me dedicando ao desenvolvimento <b>Front-end</b>, onde venho criando projetos e atuando como <b>freelancer</b>, colocando em prática minhas habilidades. Tenho experiência em colaboração em equipe e estou sempre comprometido em me manter atualizado nas tecnologias do mercado. Meu objetivo é me tornar um desenvolvedor <b>Full-stack</b>, explorando oportunidades e contribuindo com projetos criativos em parceria com uma boa equipe.</p>
 
+## 🌐 Traduções/Translations
+
+<details>
+  <summary>English</summary>
+    <p><br>Currently, I am dedicating myself to <b>Front-end</b> development, where I have been creating projects and working as a <b>freelancer</b>, putting my skills into practice. I have experience in team collaboration and am always committed to staying up to date with market technologies. My goal is to become a <b>Full-stack</b> developer, exploring opportunities and contributing to creative projects in partnership with a good team.</p>
+</details>
 
 ## 💻 Tecnologias:
 
