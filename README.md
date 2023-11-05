@@ -12,7 +12,7 @@
 
 <div align="center">      
      <img height="180em" src="https://streak-stats.demolab.com/?user=Ally-Matias&theme=transparent&hide_border=true)](https://git.io/streak-stats"/> 
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&theme=transparent"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&theme=transparent"/> -->
 </div>
 
 
