@@ -33,7 +33,7 @@
 
 <h3><b> 🔷 Frontend:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,vue,styledcomponents&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,vue,styledcomponents&perline=7)](https://skillicons.dev)
 
 <h3><b> 🔴 Backend:</b></h3>
 
