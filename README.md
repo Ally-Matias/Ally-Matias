@@ -31,21 +31,17 @@
 
 ## 💻 Tecnologias:
 
-<h3><b> 🔷 Frontend:</b></h3>
+<h3><b> 🔷 Front-End:</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,vue,styledcomponents,sass&perline=8)](https://skillicons.dev)
 
-<h3><b> 🔴 Backend:</b></h3>
+<h3><b> 🔴 Estudando no Back-End:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&perline=4)](https://skillicons.dev)
-
-<h3><b> 🟩 Databases:</b></h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker&perline=4)](https://skillicons.dev)
 
 <h3><b> 🔶 Outras ferramentas:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,git,github,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,git,github,figma&perline=6)](https://skillicons.dev)
 
 
 ## 🌐 Redes Sociais:
