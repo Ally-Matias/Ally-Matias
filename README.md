@@ -39,7 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,git,github,figma&perline=6)](https://skillicons.dev)
 
-<h3><b> 🔴 Estudando no Back-End:</b></h3>
+<h3><b> 🔴 Estudando:</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker&perline=4)](https://skillicons.dev)
 
