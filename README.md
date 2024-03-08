@@ -15,7 +15,7 @@
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&theme=transparent"/> -->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ally-Matias&bg_color=0d111700&color=376DFC&line=376DFC&point=05AEDB&area=true&hide_border=true)](https://github.com/Ally-Matias)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ally-Matias&bg_color=0d111700&color=05AEDB&line=376DFC&point=05AEDB&area=true&hide_border=true)](https://github.com/Ally-Matias)
 
 
 <div align="left">   
