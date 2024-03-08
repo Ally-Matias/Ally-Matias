@@ -3,7 +3,7 @@
 ### 👋 Opa, tudo bem? Eu sou Alliquison Matias.
 ### 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=05AEDB&center=true&vCenter=true&width=500&lines=Programador+Front-End;Freelancer;Estudando+Back-End+com+ASP+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=3500&color=05AEDB&center=true&vCenter=true&width=500&lines=Programador+Front-End;Freelancer;Estudando+Back-End+com+ASP+.NET)](https://git.io/typing-svg)
 
   <img align="center" alt="GIF" src="https://github.com/Ally-Matias/Ally-Matias/blob/27ecdea24a3432a93b1bae6c0d2372d580d294aa/ezgif.com-gif-maker.gif?raw=true" width="400" height="220" />
 </div>
@@ -14,6 +14,8 @@
      <img height="180em" src="https://streak-stats.demolab.com/?user=Ally-Matias&theme=transparent&hide_border=true)](https://git.io/streak-stats"/> 
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ally-Matias&show_icons=true&theme=transparent"/> -->
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ally-Matias&bg_color=0d111700&color=376DFC&line=376DFC&point=05AEDB&area=true&hide_border=true)](https://github.com/Ally-Matias)
 
 
 <div align="left">   
