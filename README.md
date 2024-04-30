@@ -3,7 +3,7 @@
 ### 👋 Opa, tudo bem? Eu sou Alliquison Matias.
 ### 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=3500&color=05AEDB&center=true&vCenter=true&width=500&lines=Programador+Front-End;Freelancer;Estudando+Back-End+com+ASP+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=3500&color=05AEDB&center=true&vCenter=true&width=500&lines=Programador+Full-Stack;Freelancer;)](https://git.io/typing-svg)
 
   <img align="center" alt="GIF" src="https://github.com/Ally-Matias/Ally-Matias/blob/27ecdea24a3432a93b1bae6c0d2372d580d294aa/ezgif.com-gif-maker.gif?raw=true" width="400" height="220" />
 </div>
@@ -25,12 +25,9 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Atualmente, estou me dedicando ao desenvolvimento <b>Front-end</b>, onde venho criando projetos e atuando como <b>freelancer</b>, colocando em prática minhas habilidades. Tenho experiência na gestão de pequenos projetos, incluindo colaboração em equipe e familiaridade com metodologias ágeis, estou determinado a expandir minhas habilidades para me tornar um desenvolvedor <b>Full-stack</b>. Meu objetivo é continuar crescendo nessa área, explorando oportunidades e contribuindo com projetos criativos em parceria com uma boa equipe.</p>
+<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, onde venho criando projetos há quase <b>3 anos</b>, colocando em prática minhas habilidades. Essa jornada ocorre em paralelo aos meus estudos na Universidade Federal do Ceará, onde também participo ativamente de bolsas e projetos para evoluir tanto profissionalmente quanto academicamente. 
 
-<details>
-  <summary><b>English</b></summary>
-    <p><br>Currently, I am dedicating myself to <b>Front-end</b> development, where I have been creating projects and working as a <b>freelancer</b>, putting my skills into practice. I have experience in managing small projects, including team collaboration and familiarity with agile methodologies, I am determined to expand my skills to become a <b>Full-stack</b> developer. My goal is to continue growing in this area, exploring opportunities and contributing to creative projects in partnership with a good team.</p>
-</details>
+Com experiência também na gestão de pequenos projetos, colaboração em equipe e familiaridade com metodologias ágeis, estou determinado a expandir minhas habilidades como desenvolvedor Full-stack. Meu objetivo é continuar crescendo nesta área, explorando oportunidades e contribuindo com projetos para uma boa empresa, em colaboração com uma ótima equipe.</p>
 
 ## 💻 Tecnologias:
 
@@ -38,13 +35,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,vue,styledcomponents,sass&perline=8)](https://skillicons.dev)
 
+<h3><b> 🔴 Back-End:</b></h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker&perline=4)](https://skillicons.dev)
+
 <h3><b> 🔶 Outras ferramentas:</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,git,github,figma&perline=6)](https://skillicons.dev)
-
-<h3><b> 🔴 Estudando:</b></h3>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker&perline=4)](https://skillicons.dev)
 
 
 ## 🌐 Redes Sociais:
