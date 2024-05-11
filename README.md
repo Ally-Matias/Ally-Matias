@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, onde venho criando projetos e estudando há quase <b>3 anos</b>, colocando em prática minhas habilidades. Essa jornada ocorre em paralelo aos meus estudos na Universidade Federal do Ceará, onde também participo ativamente de bolsas e projetos para evoluir tanto profissionalmente quanto academicamente. 
+<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, onde venho estudando e criando projetos há quase <b>3 anos</b>, colocando em prática minhas habilidades. Essa jornada ocorre em paralelo aos meus estudos na Universidade Federal do Ceará, onde também participo ativamente de bolsas para evoluir tanto profissionalmente quanto academicamente. 
 
 Com experiência também na gestão de pequenos projetos, colaboração em equipe e familiaridade com metodologias ágeis, estou determinado a expandir minhas habilidades como desenvolvedor Full-stack. Meu objetivo é continuar crescendo nesta área, explorando oportunidades e contribuindo com projetos para uma boa empresa, em colaboração com uma ótima equipe.</p>
 
