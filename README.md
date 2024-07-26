@@ -33,7 +33,7 @@ Com experiência também na gestão de pequenos projetos, colaboração em equip
 
 <h3><b> 🔷 Front-End:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,vue,styledcomponents,sass&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,vue,styledcomponents,sass,tailwind&perline=5)](https://skillicons.dev)
 
 <h3><b> 🔴 Back-End:</b></h3>
 
