@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋 Opa, tudo bem? Eu sou Alliquison Matias.
-### 🧑‍🎓 Cursando redes de computadores na Universidade Federal do Ceará.
+### 🧑‍🎓 Formado em redes de computadores pela Universidade Federal do Ceará.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=3500&color=05AEDB&center=true&vCenter=true&width=500&lines=Programador+Full-Stack;Freelancer;)](https://git.io/typing-svg)
 
@@ -25,9 +25,9 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, onde venho estudando e criando projetos há quase <b>3 anos</b>, colocando em prática minhas habilidades. Essa jornada ocorre em paralelo aos meus estudos na Universidade Federal do Ceará, onde também participo ativamente de bolsas para evoluir tanto profissionalmente quanto academicamente. 
-
-Com experiência também na gestão de pequenos projetos, colaboração em equipe e familiaridade com metodologias ágeis, estou determinado a expandir minhas habilidades como desenvolvedor Full-stack. Meu objetivo é continuar crescendo nesta área, explorando oportunidades e contribuindo com projetos para uma boa empresa, em colaboração com uma ótima equipe.</p>
+<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, criando projetos há mais de <b>3 anos</b> e atuando profissionalmente há <b>2 anos</b>, colocando em prática minhas habilidades.  
+Sou formado em <b>Redes de Computadores</b> pela <b>Universidade Federal do Ceará</b>. Tenho experiência na gestão de pequenos projetos, colaboração em equipe e familiaridade com metodologias ágeis.  
+Meu objetivo é continuar crescendo nessa área, explorando novas oportunidades e contribuindo com projetos para uma boa empresa, em parceria com uma ótima equipe.</p>
 
 ## 💻 Tecnologias:
 
