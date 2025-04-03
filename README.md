@@ -43,6 +43,26 @@ Meu objetivo é continuar crescendo nessa área, explorando novas oportunidades 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,git,github,figma&perline=6)](https://skillicons.dev)
 
+## 📌 Alguns dos projetos Que Já Trabalhei:
+
+### [Startup Compartilha](https://www.compartilha.com.br/)
+A compartilha é um sistema web que aplica modelagem matemática para otimizar o compartilhamento de hemocomponentes entre bancos de sangue.
+Atuo como desenvolvedor full-stack na versão 2.0 do sistema e em uma landing page. Desenvolvi protótipos no Figma, criei telas, implementei funcionalidades, realizei integrações e desenvolvi estratégias para otimizar processos e resolver problemas de maneira eficiente.
+
+### [Clínica Janaína Queiroz](https://clinicajanainaqueiroz.com.br/)
+Freelancer de desenvolvimento de uma landing page completa para a Clínica Janaína Queiroz,
+destacando sua excelência e serviços. Optei por programar usando HTML5, CSS3 e JavaScript (Vanilla)
+para otimização de SEO, garantindo métricas excepcionais no PageSpeed Insights, com um índice de SEO(Search Engine Optimization) de 100 pontos.
+
+### [Tropa Concursos](https://tropaconcursos.com.br/)
+O site Tropa Concursos é uma landing page dedicada à apresentar o melhor curso de preparação de candidatos para os concursos da Polícia Militar do Ceará (PMCE)! Sob a orientação do Professor Djalma Brito, aprovado em seis concursos públicos, incluindo os de Soldado da PMCE e Policial Penal do Ceará, o site é uma porta de entrada para um curso completo e atualizado focado nas disciplinas de Direito Penal Militar e Direito Processual Penal, que oferece um plano de estudos personalizado, videoaulas teóricas, listas de exercícios, material didático em PDF e simulados no modelo da prova.
+
+### [Startup ConecteVidas](https://github.com/Ally-Matias/ConecteVidas-MVP-Presentation)
+Selecionado para o Programa Empreende UFC com a ideia da startup ConecteVidas, desempenhando o papel de bolsista e líder da equipe. A iniciativa, que propõe conectar profissionais de saúde a pacientes para cuidados domiciliares, foi destacada pela sua relevância no setor de saúde e, ao término do programa, recebemos uma premiação pelo projeto. Após a conclusão da bolsa, assumi o desafio de desenvolver sozinho o MVP da plataforma, transformando a ideia em realidade.
+
+### [Startup Shotokawa Comics](https://github.com/Ally-Matias/Shotokawa-Comics)
+Um desafio de freelancer comprometido em fornecer o front-end de uma plataforma de leitura de
+quadrinhos que oferece uma alternativa legalizada para os fãs. Tivemos como objetivo a criação das principais telas e funcionalidades para que assim nós tivéssemos uma primeira versão apresentável do projeto. Desde o início, adotamos uma abordagem de trabalho utilizando o Trello para a organização e colaboração eficiente.
 
 ## 🌐 Redes Sociais:
     
