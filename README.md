@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Sou um desenvolvedor full-stack com quase 4 anos de experiência prática, atuando profissionalmente há quase 3 anos. Minha especialidade é o front-end, onde consigo criar protótipos no Figma, tomar decisões estratégicas de UI/UX e desenvolver interfaces responsivas. Além disso, possuo grande familiaridade com DevOps (AWS, Docker, deploy, etc.), graças à minha formação acadêmica (Redes de Computadores - Universidade federal do Ceará). No front-end, trabalho com as principais tecnologias como JavaScript/TypeScript, ReactJS, Next.js ou VueJS, enquanto no back-end desenvolvo soluções robustas utilizando Node.js, Express ou .NET.</p>
+<p>Sou um desenvolvedor full-stack com quase 4 anos de experiência prática, atuando profissionalmente há quase 3 anos. Minha especialidade é o front-end, onde consigo criar protótipos no Figma, tomar decisões estratégicas de UI/UX e desenvolver interfaces responsivas. Além disso, possuo grande familiaridade com DevOps (AWS, Docker, deploy, etc.), graças à minha formação acadêmica (Redes de Computadores - Universidade federal do Ceará). No front-end, trabalho com as principais tecnologias como JavaScript/TypeScript, ReactJS, Next.js ou VueJS, enquanto no back-end desenvolvo soluções robustas utilizando Node.js, Express ou .NET, incluindo a integração de APIs RESTful.</p>
 
 ## 💻 Tecnologias:
 
@@ -45,7 +45,7 @@
 
 ### [Startup Compartilha](https://www.compartilha.com.br/)
 A compartilha é um sistema web que aplica modelagem matemática para otimizar o compartilhamento de hemocomponentes entre bancos de sangue.
-Atuo como desenvolvedor full-stack na versão 2.0 do sistema e em uma landing page. Desenvolvi protótipos no Figma, criei telas, implementei funcionalidades, realizei integrações e desenvolvi estratégias para otimizar processos e resolver problemas de maneira eficiente.
+Atuo como desenvolvedor full-stack na versão 2.0 do sistema e em uma landing page. Desenvolvi protótipos no Figma, criei telas, implementei funcionalidades, integrei APIs RESTful e desenvolvi estratégias para otimizar processos e resolver problemas de maneira eficiente.
 
 ### [Clínica Janaína Queiroz](https://clinicajanainaqueiroz.com.br/)
 Freelancer de desenvolvimento de uma landing page completa para a Clínica Janaína Queiroz,
