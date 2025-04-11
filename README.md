@@ -25,9 +25,7 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Atualmente, estou me dedicando ao desenvolvimento <b>Full-stack</b>, criando projetos há mais de <b>3 anos</b> e atuando profissionalmente há <b>2 anos</b>, colocando em prática minhas habilidades.  
-Sou formado em <b>Redes de Computadores</b> pela <b>Universidade Federal do Ceará</b>. Tenho experiência na gestão de pequenos projetos, colaboração em equipe e familiaridade com metodologias ágeis.  
-Meu objetivo é continuar crescendo nessa área, explorando novas oportunidades e contribuindo com projetos para uma boa empresa, em parceria com uma ótima equipe.</p>
+<p>Sou um desenvolvedor full-stack com quase 4 anos de experiência prática, atuando profissionalmente há quase 3 anos. Minha especialidade é o front-end, onde consigo criar protótipos no Figma, tomar decisões estratégicas de UI/UX e desenvolver interfaces responsivas. Além disso, possuo grande familiaridade com DevOps (AWS, Docker, deploy, etc.), graças à minha formação acadêmica (Redes de Computadores - Universidade federal do Ceará). No front-end, trabalho com as principais tecnologias como JavaScript/TypeScript, ReactJS, Next.js ou VueJS, enquanto no back-end desenvolvo soluções robustas utilizando Node.js, Express ou .NET.</p>
 
 ## 💻 Tecnologias:
 
@@ -37,7 +35,7 @@ Meu objetivo é continuar crescendo nessa área, explorando novas oportunidades 
 
 <h3><b> 🔴 Back-End:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,dotnet&perline=4)](https://skillicons.dev)
 
 <h3><b> 🔶 Outras ferramentas:</b></h3>
 
