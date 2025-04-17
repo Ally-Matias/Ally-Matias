@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim:
 
-<p>Sou um desenvolvedor full-stack com quase 4 anos de experiência prática, atuando profissionalmente há quase 3 anos. Minha especialidade é o front-end, onde consigo criar protótipos no Figma, tomar decisões estratégicas de UI/UX e desenvolver interfaces responsivas. Além disso, possuo grande familiaridade com DevOps (AWS, Docker, deploy, etc.), graças à minha formação acadêmica (Redes de Computadores - Universidade federal do Ceará). No front-end, trabalho com as principais tecnologias como JavaScript/TypeScript, ReactJS, Next.js ou VueJS, enquanto no back-end desenvolvo soluções robustas utilizando Node.js, Express ou .NET, incluindo a integração de APIs RESTful.</p>
+<p>Sou um desenvolvedor full-stack com mais de 3 anos de experiência prática, atuando profissionalmente há mais de 2 anos. Minha especialidade é o front-end, onde consigo criar protótipos no Figma, tomar decisões estratégicas de UI/UX e desenvolver interfaces responsivas. Além disso, possuo grande familiaridade com DevOps (AWS, Docker, deploy, etc.), graças à minha formação acadêmica (Redes de Computadores - Universidade federal do Ceará). No front-end, trabalho com as principais tecnologias como JavaScript/TypeScript, ReactJS, Next.js ou VueJS, enquanto no back-end desenvolvo soluções robustas utilizando Node.js, Express ou .NET, incluindo a integração de APIs RESTful.</p>
 
 ## 💻 Tecnologias:
 
