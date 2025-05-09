@@ -67,8 +67,6 @@ quadrinhos que oferece uma alternativa legalizada para os fãs. Tivemos como obj
 
 
 
-
-
 <!--
 
 ANOTAÇÔES:
