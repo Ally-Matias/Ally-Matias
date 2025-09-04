@@ -41,7 +41,7 @@
 
 ### [Startup Compartilha](https://www.compartilha.com.br/)
 A compartilha é um sistema web que aplica modelagem matemática para otimizar o compartilhamento de hemocomponentes entre bancos de sangue.
-Atuo como desenvolvedor full-stack na versão 2.0 do sistema e em uma landing page. Desenvolvi protótipos no Figma, criei telas, implementei funcionalidades, integrei APIs RESTful e desenvolvi estratégias para otimizar processos e resolver problemas de maneira eficiente.
+Atuei como desenvolvedor full-stack na versão 2.0 do sistema e em uma landing page. Desenvolvi protótipos no Figma, criei telas, implementei funcionalidades, integrei APIs RESTful e desenvolvi estratégias para otimizar processos e resolver problemas de maneira eficiente.
 
 ### [Clínica Janaína Queiroz](https://clinicajanainaqueiroz.com.br/)
 Freelancer de desenvolvimento de uma landing page completa para a Clínica Janaína Queiroz,
